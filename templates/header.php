@@ -14,7 +14,7 @@ ob_start();
 	<meta name="searchdh" content="author: dsmith" />
 
 	<link rel="stylesheet"
-		href="css/template_styles.css" type = "text/css"
+		href="style.css" type = "text/css"
 		media="screen,projection" />
 </head>
 
